@@ -8,7 +8,7 @@
   <a href="mailto:bryan.cuchosuyo@telecom-paris.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/BryanCucho10/telecom-portfolio-roadmap">
+  <a href="https://github.com/BryanTxz10/telecom-portfolio-roadmap">
     <img src="https://img.shields.io/badge/Roadmap-2026--2028-2ea44f?style=flat&logo=github&logoColor=white" alt="Roadmap"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 - 🎓 Telecommunications Engineer (Universidad Nacional de Ingeniería, Peru) — now in my 2nd year at **Télécom Paris**, specializing in **GIN** (Grandes Infrastructures Numériques: IP networks, cloud, security, mobile/IoT, CDN, multimedia) and **MODS** (Markets, Organizations, Data, Strategy)
 - 💼 Background in **pre-sales at Huawei**: videoconferencing solution proposals, technical-commercial documentation, and CDN server support for IPTV retransmission
-- 🧭 Currently building a portfolio around **network automation, cloud infrastructure, and 5G**, approached through a DevOps/DevSecOps lens — tracked in my [technical roadmap](https://github.com/BryanCucho10/telecom-portfolio-roadmap)
+- 🧭 Currently building a portfolio around **network automation, cloud infrastructure, and 5G**, approached through a DevOps/DevSecOps lens — tracked in my [technical roadmap](https://github.com/BryanTxz10/telecom-portfolio-roadmap)
 - 🗣️ Spanish (native) · English (C1) · French (B1)
 
 ---
@@ -51,7 +51,7 @@
 
 Projects are being built incrementally following the roadmap philosophy: *each certification unblocks a project, and each project demonstrates in practice what GIN/MODS coursework covers in theory.*
 
-📍 Track progress and see what's shipped vs. planned in the [**telecom-portfolio-roadmap**](https://github.com/BryanCucho10/telecom-portfolio-roadmap) hub — individual project repos will be linked there as they launch.
+📍 Track progress and see what's shipped vs. planned in the [**telecom-portfolio-roadmap**](https://github.com/BryanTxz10/telecom-portfolio-roadmap) hub — individual project repos will be linked there as they launch.
 
 ---
 
