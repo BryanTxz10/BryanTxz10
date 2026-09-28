@@ -22,16 +22,16 @@
 ---
 
 ```
-bryan@telecom-paris:~$ whoami
-+------------------------------------------------------------+
-| os..........: Telecommunications Engineer (UNI, Peru)      |
-| host........: Télécom Paris - IP Paris, Double Degree (M2) |
-| shell.......: Network · Cloud · 5G · Security              |
-| experience..: Pre-Sales @ Huawei (Videoconf, CDN/IPTV)     |
-| focus.......: Network Automation · Cloud Infra · 5G        |
-| languages...: ES (native) · EN (C1) · FR (B1)              |
-| score.......: GPA 4.0 · Top of Class                       |
-+------------------------------------------------------------+
+> whoami
+
+NAME       = Bryan Cucho Suyo
+ROLE       = Telecom Engineer → Pre-Sales / Platform Engineering
+LOCATION   = Lima, Peru → Paris, France
+STUDY      = Télécom Paris - IP Paris (Double Degree, M2)
+FOCUS      = Network · Cloud · 5G · Security
+EXPERIENCE = Pre-Sales @ Huawei (Videoconf, CDN/IPTV)
+LANGUAGES  = ES (native) · EN (C1) · FR (B1)
+SCORE      = GPA 4.0 · Top of Class
 ```
 
 ### 🏆 Highlights
@@ -78,18 +78,16 @@ bryan@telecom-paris:~$ whoami
 
 ---
 
-### 📊 GitHub Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanTxz10&show_icons=true&theme=tokyonight&hide_border=true" alt="Bryan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanTxz10&theme=tokyonight&hide_border=true" alt="Bryan's GitHub streak" height="165"/>
-</p>
-
----
-
 ### 📡 Get in touch
 
-<p>
-  <a href="https://www.linkedin.com/in/bcuchos/">LinkedIn</a> ·
-  <a href="mailto:bryan.cuchosuyo@telecom-paris.fr">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bcuchos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bryan.cuchosuyo@telecom-paris.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/BryanTxz10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
