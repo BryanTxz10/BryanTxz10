@@ -1,5 +1,7 @@
-﻿<h1 align="center">Hi, I'm Bryan Cucho Suyo 👋</h1>
-<h3 align="center">Telecommunications Engineer → Pre-Sales / Solution Architect / Platform Engineer</h3>
+<h1 align="center">Hi, I'm Bryan Cucho Suyo 👋</h1>
+<h3 align="center">Telecommunications Engineer → Network & Cloud Solutions | Pre-Sales / Platform Engineering</h3>
+
+<p align="center"><code>📶 ▂▄▆█ Full Coverage — Lima 🇵🇪 → Paris 🇫🇷</code></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bcuchos/">
@@ -11,16 +13,29 @@
   <a href="https://github.com/BryanTxz10/telecom-portfolio-roadmap">
     <img src="https://img.shields.io/badge/Roadmap-2026--2028-2ea44f?style=flat&logo=github&logoColor=white" alt="Roadmap"/>
   </a>
+  <a href="https://www.telecom-paris.fr/">
+    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9com_Paris-IP_Paris-000091?style=flat" alt="Télécom Paris - IP Paris"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-5G%20%7C%20Cloud%20Native-4B275F?style=flat" alt="5G | Cloud Native"/>
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🎓 Telecommunications Engineer (Universidad Nacional de Ingeniería, Peru) — now in my 2nd year at **Télécom Paris**, specializing in **GIN** (Grandes Infrastructures Numériques: IP networks, cloud, security, mobile/IoT, CDN, multimedia) and **MODS** (Markets, Organizations, Data, Strategy)
+- 🎓 Telecommunications Engineer (Universidad Nacional de Ingeniería, Peru) — graduated top of class, GPA 4.0
+- 🇫🇷 Now in my 2nd year of a Double Degree (Diplôme d'Ingénieur / MSc in Engineering) at **Télécom Paris - IP Paris**, combining network & cloud infrastructure design with security, alongside a specialization in economics, strategy, and telecom markets
 - 💼 Background in **pre-sales at Huawei**: videoconferencing solution proposals, technical-commercial documentation, and CDN server support for IPTV retransmission
-- 🧭 Currently building a portfolio around **network automation, cloud infrastructure, and 5G**, approached through a DevOps/DevSecOps lens — tracked in my [technical roadmap](https://github.com/BryanTxz10/telecom-portfolio-roadmap)
+- 🧭 Building a portfolio around **network automation, cloud infrastructure, and 5G**, through a DevOps/DevSecOps lens — tracked in my [technical roadmap](https://github.com/BryanTxz10/telecom-portfolio-roadmap)
 - 🗣️ Spanish (native) · English (C1) · French (B1)
+
+---
+
+### 🏆 Highlights
+
+- 🥉 **3rd place — Huawei ICT Competition 2025, Global Final (China)** — Cloud Computing track (Linux, Cloud, Ansible)
+- 🎓 **Top of class** — B.Eng. in Telecommunications, Universidad Nacional de Ingeniería (GPA 4.0)
+- 🎤 **Speaker — KCD (Kubernetes Community Days) Lima 2026** — *"Kubernetes for 5G Cloud-Native Architectures"*
 
 ---
 
@@ -47,15 +62,24 @@
 
 ---
 
-### 🚧 Portfolio Projects
+### 🛰️ Portfolio Projects
 
-Projects are being built incrementally following the roadmap philosophy: *each certification unblocks a project, and each project demonstrates in practice what GIN/MODS coursework covers in theory.*
+Projects are being built incrementally following the roadmap philosophy: *each certification unblocks a project, and each project demonstrates in practice what my coursework covers in theory — from network and cloud infrastructure to the business side of telecom.*
 
 📍 Track progress and see what's shipped vs. planned in the [**telecom-portfolio-roadmap**](https://github.com/BryanTxz10/telecom-portfolio-roadmap) hub — individual project repos will be linked there as they launch.
 
 ---
 
-### 📫 Get in touch
+### 📊 GitHub Signal
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanTxz10&show_icons=true&theme=tokyonight&hide_border=true" alt="Bryan's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanTxz10&theme=tokyonight&hide_border=true" alt="Bryan's GitHub streak" height="165"/>
+</p>
+
+---
+
+### 📡 Get in touch
 
 <p>
   <a href="https://www.linkedin.com/in/bcuchos/">LinkedIn</a> ·
