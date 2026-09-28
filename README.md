@@ -21,15 +21,18 @@
 
 ---
 
-### 🎯 About Me
-
-- 🎓 Telecommunications Engineer (Universidad Nacional de Ingeniería, Peru) — graduated top of class, GPA 4.0
-- 🇫🇷 Now in my 2nd year of a Double Degree (Diplôme d'Ingénieur / MSc in Engineering) at **Télécom Paris - IP Paris**, combining network & cloud infrastructure design with security, alongside a specialization in economics, strategy, and telecom markets
-- 💼 Background in **pre-sales at Huawei**: videoconferencing solution proposals, technical-commercial documentation, and CDN server support for IPTV retransmission
-- 🧭 Building a portfolio around **network automation, cloud infrastructure, and 5G**, through a DevOps/DevSecOps lens — tracked in my [technical roadmap](https://github.com/BryanTxz10/telecom-portfolio-roadmap)
-- 🗣️ Spanish (native) · English (C1) · French (B1)
-
----
+```
+bryan@telecom-paris:~$ whoami
++------------------------------------------------------------+
+| os..........: Telecommunications Engineer (UNI, Peru)      |
+| host........: Télécom Paris - IP Paris, Double Degree (M2) |
+| shell.......: Network · Cloud · 5G · Security              |
+| experience..: Pre-Sales @ Huawei (Videoconf, CDN/IPTV)     |
+| focus.......: Network Automation · Cloud Infra · 5G        |
+| languages...: ES (native) · EN (C1) · FR (B1)              |
+| score.......: GPA 4.0 · Top of Class                       |
++------------------------------------------------------------+
+```
 
 ### 🏆 Highlights
 
@@ -58,15 +61,20 @@
   <img src="https://img.shields.io/badge/-5G_Core-4B275F?style=flat" alt="5G Core"/>
 </p>
 
-> These are the tools my current portfolio projects are being built around — not yet claimed mastery, actively in progress. See the roadmap for what's shipped vs. planned.
+> Not yet claimed mastery — actively in progress. See the roadmap for what's shipped vs. planned.
 
 ---
 
 ### 🛰️ Portfolio Projects
 
-Projects are being built incrementally following the roadmap philosophy: *each certification unblocks a project, and each project demonstrates in practice what my coursework covers in theory — from network and cloud infrastructure to the business side of telecom.*
+| # | Project | Stack |
+|---|---------|-------|
+| 1 | **Multi-site Network Lab** — simulated WAN with dynamic routing, VLANs & QoS | `GNS3` `Containerlab` `FRRouting` |
+| 2 | **Mini-CDN** — multi-region edge caching | `Docker` `Nginx` `Varnish` `Redis` |
+| 3 | **5G / IoT Core Lab** — open-source mobile core with simulated IoT devices | `Open5GS` `srsRAN` `UERANSIM` |
+| 4 | **Streaming Platform** — videocall/streaming app instrumented with QoS metrics | `WebRTC` `Node.js` `Grafana` |
 
-📍 Track progress and see what's shipped vs. planned in the [**telecom-portfolio-roadmap**](https://github.com/BryanTxz10/telecom-portfolio-roadmap) hub — individual project repos will be linked there as they launch.
+📍 Two more projects (IaC consolidation + cloud-native capstone) are next in the pipeline. Full details and shipped/planned status in the [**telecom-portfolio-roadmap**](https://github.com/BryanTxz10/telecom-portfolio-roadmap) hub.
 
 ---
 
