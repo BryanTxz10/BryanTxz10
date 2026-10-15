@@ -23,24 +23,14 @@
   <a href="https://www.telecom-paris.fr/">
     <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9com_Paris-IP_Paris-000091?style=flat" alt="Télécom Paris - IP Paris"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-5G%20%7C%20Cloud%20Native-4B275F?style=flat" alt="5G | Cloud Native"/>
-  <img src="https://komarev.com/ghpvc/?username=BryanTxz10&label=Profile%20views&color=4B275F&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-5G%20%7C%20Cloud%20Native-4B275F?style=flat" alt="5G | Cloud Native"/>
 </p>
 
 ---
 
-```
-> whoami
-
-NAME       = Bryan Cucho Suyo
-ROLE       = Telecom Engineer → Pre-Sales / Platform Engineering
-LOCATION   = Lima, Peru → Paris, France
-STUDY      = Télécom Paris - IP Paris (Double Degree, M2)
-FOCUS      = Network · Cloud · 5G · Security
-EXPERIENCE = Pre-Sales @ Huawei (Videoconf, CDN/IPTV)
-LANGUAGES  = ES (native) · EN (C1) · FR (B1)
-SCORE      = GPA 4.0 · Top of Class
-```
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="whoami — Bryan Cucho Suyo · Telecom Engineer → Pre-Sales / Platform Engineering · Lima, Peru → Paris, France · Télécom Paris - IP Paris (Double Degree, M2) · Network, Cloud, 5G, Security · Pre-Sales @ Huawei · ES / EN (C1) / FR (B1) · GPA 4.0, Top of Class"/>
+</p>
 
 ### 🏆 Highlights
 
