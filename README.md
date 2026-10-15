@@ -1,8 +1,15 @@
+<!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Bryan Cucho Suyo 👋</h1>
-<h3 align="center">Telecommunications Engineer → Network & Cloud Solutions | Pre-Sales / Platform Engineering</h3>
 
-<p align="center"><code>📶 ▂▄▆█ Full Coverage — Lima 🇵🇪 → Paris 🇫🇷</code></p>
+<p align="center">
+  <a href="https://github.com/BryanTxz10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B275F&center=true&vCenter=true&width=600&lines=Telecommunications+Engineer;Network+%26+Cloud+Solutions;5G+Cloud-Native+%7C+Platform+Engineering;Pre-Sales+%2F+Solutions+Architect" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center"><code>📶 ▁▂▃▄▅▆▇█ Full Coverage — Lima 🇵🇪 → Paris 🇫🇷</code></p>
+
+<!-- SOCIAL / BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bcuchos/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,6 +24,7 @@
     <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9com_Paris-IP_Paris-000091?style=flat" alt="Télécom Paris - IP Paris"/>
   </a>
   <img src="https://img.shields.io/badge/Focus-5G%20%7C%20Cloud%20Native-4B275F?style=flat" alt="5G | Cloud Native"/>
+  <img src="https://komarev.com/ghpvc/?username=BryanTxz10&label=Profile%20views&color=4B275F&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -39,6 +47,27 @@ SCORE      = GPA 4.0 · Top of Class
 - 🥉 **3rd place — Huawei ICT Competition 2025, Global Final (China)** — Cloud Computing track (Linux, Cloud, Ansible)
 - 🎓 **Top of class** — B.Eng. in Telecommunications, Universidad Nacional de Ingeniería (GPA 4.0)
 - 🎤 **Speaker — KCD (Kubernetes Community Days) Lima 2026** — *"Kubernetes for 5G Cloud-Native Architectures"*
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanTxz10&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=9D6FE0&icon_color=9D6FE0&text_color=9BA4B0&bg_color=00000000" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanTxz10&layout=compact&hide_border=true&langs_count=8&title_color=9D6FE0&text_color=9BA4B0&bg_color=00000000" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanTxz10&hide_border=true&background=00000000&stroke=9BA4B0&ring=9D6FE0&fire=9D6FE0&currStreakLabel=9D6FE0" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BryanTxz10&hide_border=true&bg_color=00000000&color=9D6FE0&line=9D6FE0&point=9BA4B0&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BryanTxz10&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies"/>
+</p>
 
 ---
 
